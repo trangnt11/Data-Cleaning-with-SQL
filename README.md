@@ -15,9 +15,9 @@ In this project, I clean airbnb data with SQL. airbnb is a short-term rental app
     - room_type: type of rooms in houses: entire or private
     
 2. Data cleaning
-  2.1. Standardize Date Format in last_review column
-  2.2. Breaking out nbhood_full into individual Columns (borough, adress)
-  2.3. Edit price column
-  2.4. Join 3 tables to 1 new table
-  2.5. Check null value: host_name and description have null values but don't affect much to analysis results
-  2.6. Check duplicate values: no duplicate listing_id
+  - 2.1. Standardize Date Format in last_review column
+  - 2.2. Breaking out nbhood_full into individual Columns (borough, adress)
+  - 2.3. Edit price column
+  - 2.4. Join 3 tables to 1 new table
+  - 2.5. Check null value: host_name and description have null values but don't affect much to analysis results
+  - 2.6. Check duplicate values: no duplicate listing_id
